@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f8ff;
+  padding-top: 100px;
+}
+
+h1 {
+  color: #333;
+}
+
+#countdown {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+#video-container {
+  margin-top: 40px;
+}
